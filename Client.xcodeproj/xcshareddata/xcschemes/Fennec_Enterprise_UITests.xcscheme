@@ -182,10 +182,10 @@
                   Identifier = "BrowserTests">
                </Test>
                <Test
-                  Identifier = "FindInPageTests">
+                  Identifier = "ClearPrivateDataTests/testClearsCache()">
                </Test>
                <Test
-                  Identifier = "HistoryTests/testDeleteHistoryItemFromListWithMoreThan100Items()">
+                  Identifier = "FindInPageTests">
                </Test>
                <Test
                   Identifier = "HomePageSettingsUITests">
